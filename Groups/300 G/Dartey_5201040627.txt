@@ -1,0 +1,24 @@
+1. What is a software process model, and why is it crucial to the creation of software?
+Software process models are practical instruments used by developers to map each phase.
+
+of their initiatives. Additionally, they are crucial since they support project managers in their
+
+methods, calculate costs,
+
+Identify obstacles and interact with teams and clients.
+
+2. Compare and contrast the models for the waterfall and agile software development processes.
+
+The main distinction between Waterfall and Agile is that Waterfall fails.
+
+whereas Agile divides software development into discrete stages that flow into one another.
+
+supports iterative development cycles, which allow for the simultaneous operation of several lifecycle phases.
+
+parallel.
+
+3. What are the two's main distinctions, and what are the
+
+advantages and disadvantages of each
+
+Waterfall is a linear process, which is the major distinction.
